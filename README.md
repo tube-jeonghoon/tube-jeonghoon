@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @tube-jeonghoon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## doingTech
 
+### WEB  
+#### Frontend
+javacscipt - Vue.js
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Pytthon-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
+#### Backend
+Python - falsk, fastapi  
+Go - gin
+  
+#### MobileApp
+dart - flutter
+  
+#### Infra
+AWS
+docker - kubernetes  
