@@ -8,3 +8,5 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Pytthon-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
