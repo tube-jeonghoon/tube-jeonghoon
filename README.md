@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=appveyor&logo=Python&logoColor=white"/></a>&nbsp 
 
 https://img.shields.io/badge/1234-1234-red
 
