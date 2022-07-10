@@ -1,3 +1,13 @@
+# Knock Knock !! excuse me 😎
+What... what is this about? <img src="https://cdn-icons.flaticon.com/png/512/2341/premium/2341853.png?token=exp=1657472117~hmac=0a21f4ef1913adba2632bf6a698febdc" width=24 />
+
+## Who are you ? 
+I'm Tube, it's my English name. I am Korean.<img src="https://cdn-icons-png.flaticon.com/512/203/203048.png" width=24 />
+
+## What do you do ?
+
+
+
 ## doingTech
 
 ### WEB  
