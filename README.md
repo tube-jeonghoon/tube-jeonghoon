@@ -2,32 +2,28 @@
 What... what is this about? <img src="https://cdn-icons.flaticon.com/png/512/2341/premium/2341853.png?token=exp=1657472117~hmac=0a21f4ef1913adba2632bf6a698febdc" width=24 />
 
 ## Who are you ? 
-I'm Tube, it's my English name. I am Korean.<img src="https://cdn-icons-png.flaticon.com/512/203/203048.png" width=24 />
+I'm Tube, it's my English name. I am Korean. <img src="https://cdn-icons-png.flaticon.com/512/203/203048.png" width=24 />
 
 ## What do you do ?
+I'm a full-stack developer and DevOps engineer. <img src="https://cdn-icons-png.flaticon.com/512/5136/5136950.png" width=24 />
 
+### With
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescipt-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-## doingTech
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 
-### WEB  
-#### UI / UX
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 
-#### frontEnd
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
-
-<a><img src="https://img.shields.io/badge/CSS3-157286?style=flat&logo=CSS3&logoColor=white"/> - <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></a>
-
-<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> - <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
-
-<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
-
-#### backEnd
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> - <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>  
-
-### DB
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
   
 ### mobileApp
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> - <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>  
